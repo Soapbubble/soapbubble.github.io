@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-It's about time you see this.
+It's about time you saw this.
